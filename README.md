@@ -56,7 +56,17 @@ Circles are the decentralized communities where you can directly participate in 
 
 	A space for long form and long term discussions about the Polkadot network.
 
-- [The Kusamarian]()
+- [Polkadot StackExchange](https://substrate.stackexchange.com/)
+
+	A space for technical questions and answers about Polkadot and the Polkadot SDK.
+
+- [Polkadot SubSquare](https://polkadot.subsquare.io/)
+
+	A space for discussions about Polkadot Governance and Treasury Spending.
+
+- [Polkadot Watercooler](https://matrix.to/#/#polkadot-watercooler:parity.io)
+
+	A [Matrix](https://matrix.org/) chat room for general discussion of Polkadot.
 
 ### Catalysts
 
@@ -101,6 +111,34 @@ Are you a software developer interested in building in the Polkadot ecosystem?
 
 These resources are for you.
 
+### Tooling
+
+- [The Polkadot SDK](https://github.com/paritytech/polkadot-sdk)
+
+	All development in Polkadot basically revolves around the Polkadot SDK. This project is composed of sub-projects: Substrate, Polkadot, Cumulus. The Polkadot SDK includes useful binaries for doing development.
+
+	Install those binaries locally by running:
+
+	```sh
+	cargo install --git https://github.com/paritytech/polkadot-sdk/ polkadot polkadot-parachain-bin staging-chain-spec-builder polkadot-execute-worker polkadot-prepare-worker
+	```
+
+- [Zombienet](https://github.com/paritytech/zombienet)
+
+	In order to run a parachain, you must simulate a Polkadot network with a relay chain and multiple validators. Zombienet can do this for you with a simple CLI and config. Very useful for doing local testing on a "live network" starting from genesis.
+
+- [Chopsticks](https://github.com/AcalaNetwork/chopsticks)
+
+	Chopsticks is a tool that allows developers to simulate and test complex blockchain scenarios without deploying to a "live network" (i.e. no need for a relay chain). It is particularly useful at forking any already-live chain, modifying it, and then testing the affects of your modifications.
+
+- [Polkadot SDK Version Manager](https://github.com/paritytech/psvm)
+
+	The Polkadot SDK exports hundreds of different crates which all maintain their own semantic versioning. To keep your project compatible with Polkadot, you need to make sure all of these crates are using the same versions as the Polkadot network itself. PSVM is a tool which will go through your rust project, and make sure that all versions of all crates are correct for your targeted Polkadot SDK version.
+
+- [Zepter](https://github.com/ggwpez/zepter)
+
+	A common problem for new developers building a Polkadot SDK project is correctly importing new crates and handling all the feature flags for their newly imported crates. Zepter is a tool which can automatically detect and fix and format feature flags across your Polkadot SDK project.
+
 ### Tutorials
 
 - [Rust State Machine](https://dotcodeschool.com/courses/rust-state-machine)
@@ -121,6 +159,8 @@ These resources are for you.
 	- Video Recordings: https://www.youtube.com/@polkadotblockchainacademy/
 
 ### Contributing
+
+Here are resources you can use to help you make your first contributions to the Polkadot SDK.
 
 - [Polkadot SDK Mentor Issues](https://github.com/paritytech/polkadot-sdk/issues?q=is%3Aopen+is%3Aissue+label%3AC1-mentor)
 - [Developer Wishlist](https://github.com/paritytech/polkadot-sdk/issues/3900)
