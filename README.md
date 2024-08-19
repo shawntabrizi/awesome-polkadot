@@ -86,7 +86,7 @@ You should follow these high quality ecosystem agents to keep up to date with wh
 
 - https://twitter.com/alice_und_bob
 - https://twitter.com/LeemoXD
-- https://twitter.com/itsbirdo_
+- [https://twitter.com/itsbirdo_](https://twitter.com/itsbirdo_)
 - https://twitter.com/ParaNodes
 - https://twitter.com/GldnCalf
 - https://twitter.com/BillLaboon
@@ -112,6 +112,16 @@ Are you a software developer interested in building in the Polkadot ecosystem?
 These resources are for you.
 
 ### Tooling
+
+- [Getting Started Script](https://github.com/paritytech/polkadot-sdk/blob/master/scripts/getting-started.sh)
+
+	This script installs all the prerequisites required to start development with the Polkadot SDK.
+
+	You can execute the script in one line like so:
+
+	```sh
+	curl --proto '=https' --tlsv1.2 https://raw.githubusercontent.com/paritytech/polkadot-sdk/master/scripts/getting-started.sh -sSf | sh
+	```
 
 - [The Polkadot SDK](https://github.com/paritytech/polkadot-sdk)
 
