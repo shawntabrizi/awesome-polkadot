@@ -168,6 +168,14 @@ These resources are for you.
 	- Course Content: https://polkadot-blockchain-academy.github.io/pba-book/
 	- Video Recordings: https://www.youtube.com/@polkadotblockchainacademy/
 
+
+### Templates
+
+You can find known working and up to date templates for developing in Polkadot here:
+
+- [Polkadot SDK Templates](https://paritytech.github.io/polkadot-sdk/master/polkadot_sdk_docs/polkadot_sdk/templates/index.html)
+- Polkadot API (Frontend/TypeScript): Find working examples on their [GitHub](https://github.com/polkadot-api)
+
 ### Contributing
 
 Here are resources you can use to help you make your first contributions to the Polkadot SDK.

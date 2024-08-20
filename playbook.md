@@ -24,12 +24,12 @@ The minimum set of information you need to be able to explain Polkadot to others
 - Fast finalization times, on average under 30 seconds.
 	- Compare that to optimistic rollups which may take up to a week!
 	- Block production is separated from finality, reducing network stalls.[^31]
-- Executing and scaling on standard "gaming" hardware.
+- Executing and scaling on standard "gaming" hardware.[^32]
 	- Compared to expensive and centralized machines needed for vertical scaling or ZK provers.
-- 50+ active roll-ups building [^32]
-	- Many projects outside of Polkadot also use the Polkadot SDK.[^33]
+- 50+ active roll-ups building [^33]
+	- Many projects outside of Polkadot also use the Polkadot SDK.[^34]
 - Secure cross-chain interoperability with a native bridging protocol.
-- Trustless bridges to other blockchain ecosystems.[^33]
+- Trustless bridges to other blockchain ecosystems.[^35]
 
 ## Where is Polkadot leading?
 
@@ -47,9 +47,10 @@ The minimum set of information you need to be able to explain Polkadot to others
 [^21]: https://twitter.com/bkchr/status/1818027282688352591
 
 [^31]: https://polkadot.com/blog/polkadot-consensus-part-1-introduction
-[^32]: https://polkadot.subscan.io/parachain
-[^33]: https://www.availproject.org/, https://midnight.network/, https://entropy.xyz/
-[^34]: https://polkadot.com/blog/the-landscape-of-trustless-bridges-on-polkadot
+[^32]: https://wiki.polkadot.network/docs/maintain-guides-how-to-validate-polkadot#requirements
+[^33]: https://polkadot.subscan.io/parachain
+[^34]: https://www.availproject.org/, https://midnight.network/, https://entropy.xyz/
+[^35]: https://polkadot.com/blog/the-landscape-of-trustless-bridges-on-polkadot
 
 [^41]: https://nakaflow.io/
 [^42]: https://twitter.com/Polkadot/status/1577016988697706496, https://github.com/electric-capital/crypto-ecosystems
