@@ -64,7 +64,7 @@ The minimum set of information you need to be able to explain Polkadot to others
 	- A demo of a Polkadot SDK blockchain producing blocks every .5 seconds:
 		- https://twitter.com/bkchr/status/1818027282688352591
 
-[^22]
+[^22]:
 	- Learn about forkless runtime upgrades in Polkadot:
 		- https://wiki.polkadot.network/docs/learn-runtime-upgrades
 
