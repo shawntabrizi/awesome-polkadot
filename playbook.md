@@ -68,11 +68,7 @@ The minimum set of information you need to be able to explain Polkadot to others
 [^34]: Polkadot SDK is used throughout the entire blockchain ecosystem:
 	- Polkadot and Kusama are built with the Polkadot SDK.
 	- All 50+ live parachains, and many more in development, all use Polkadot SDK.
-	- Many projects outside of Polkadot also use the Polkadot SDK.
-		- https://www.availproject.org/
-		- https://midnight.network/
-		- https://entropy.xyz/
-		- and more...
+	- Many projects outside of Polkadot also use the Polkadot SDK: [Avail](https://www.availproject.org/), [Cardano](https://midnight.network/), [Entropy](https://entropy.xyz/), and more...
 
 [^35]: Bridging in Polkadot can be broken down into internal bridges and external bridges:
 	- Native bridging protocol for applications secured by Polkadot: https://wiki.polkadot.network/docs/learn-xcm-transport
