@@ -34,43 +34,43 @@ The minimum set of information you need to be able to explain Polkadot to others
 - Blazing fast execution speeds compared to other blockchain VMs.[^43]
 - One of the largest functioning DAOs, managing the functionality of the network and tens of millions of dollars in assets for development.[^44]
 
-[^1]:
+[^1]: Learn more about Web3:
 	- The first time the term "Web3" was used:
 		- https://gavwood.com/dappsweb3.html
 	- A blog post describing the importance of Web3:
 		- https://gavofyork.medium.com/why-we-need-web-3-0-5da4f2bf95ab
 
-[^2]:
-	- Explanation of sharding on Polkadot:
-		- https://polkadot.com/blog/polkadot-v1-0-sharding-and-economic-security
-[^3]:
-	- A high level overview of shared security:
-		- https://www.youtube.com/watch?v=uKQOSPfM-W0
-[^4]:
-	- A blog post explaining the term "blockspace":
-		- https://www.rob.tech/blog/polkadot-blockspace-over-blockchains/
+[^2]: Explanation of sharding on Polkadot:
+	- https://polkadot.com/blog/polkadot-v1-0-sharding-and-economic-security
+
+[^3]: A high level overview of shared security:
+	- https://www.youtube.com/watch?v=uKQOSPfM-W0
+
+[^4]: A blog post explaining the term "blockspace":
+	- https://www.rob.tech/blog/polkadot-blockspace-over-blockchains/
+
 [^5]:
 	- The ELVES paper, formally describing Polkadot's cynical rollup:
 		- https://eprint.iacr.org/2024/961
 	- A tweet summary of the ELVES paper:
 		- https://x.com/rphmeier/status/1807884271157187007
 
-[^20]:
+[^20]: For example:
 	- Build applications where end-users pay no transaction fees.
 	- Build applications more resilient to MEV.
 	- Build applications which can prioritize tasks and processes.
 
-[^21]:
-	- A demo of a Polkadot SDK blockchain producing blocks every .5 seconds:
-		- https://twitter.com/bkchr/status/1818027282688352591
+[^21]: A demo of a Polkadot SDK blockchain producing blocks every .5 seconds:
+	- https://twitter.com/bkchr/status/1818027282688352591
 
-[^22]:
-	- Learn about forkless runtime upgrades in Polkadot:
-		- https://wiki.polkadot.network/docs/learn-runtime-upgrades
+[^22]: Learn about forkless runtime upgrades in Polkadot:
+	- https://wiki.polkadot.network/docs/learn-runtime-upgrades
 
-[^31]:
-	- Compare that to optimistic rollups which may take up to a week!
-	- Block production is separated from finality, reducing network stalls:
+[^31]: Learn more about cynical rollups:
+	- Compare that to optimistic rollups which may take up to a week to finalize!
+	- Cynical rollups actively check that a block is valid, rather than waiting for someone to report it is invalid.
+		- See ELVES paper footnote above.
+	- Compared to "instant finality" consensus, block production is separated from finality, reducing network stalls:
 		- https://polkadot.com/blog/polkadot-consensus-part-1-introduction
 
 [^32]:
