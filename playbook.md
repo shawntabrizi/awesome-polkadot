@@ -74,21 +74,19 @@ The minimum set of information you need to be able to explain Polkadot to others
 		- https://entropy.xyz/
 		- and more...
 
-[^35]:
+[^35]: Bridging in Polkadot can be broken down into internal bridges and external bridges:
 	- Native bridging protocol for applications secured by Polkadot: https://wiki.polkadot.network/docs/learn-xcm-transport
 	- An overview of external bridges on Polkadot: https://polkadot.com/blog/the-landscape-of-trustless-bridges-on-polkadot
 
-[^40]:
-	- A list of active parachains on Polkadot: https://polkadot.subscan.io/parachain
+[^40]: A list of active parachains on Polkadot: https://polkadot.subscan.io/parachain
 
-[^41]:
-	- The Nakamoto Coefficient is one measure of decentralization and resilience.
+[^41]: The Nakamoto Coefficient is one measure of decentralization and resilience.
 	- A third party service comparing the Nakamoto Coefficient: https://nakaflow.io/
-[^42]:
-	- Graph of blockchain developer ecosystems: https://twitter.com/Polkadot/status/1577016988697706496
+
+[^42]: Graph of blockchain developer ecosystems: https://twitter.com/Polkadot/status/1577016988697706496
 	- The raw data is being generated using this open source repo: https://github.com/electric-capital/crypto-ecosystems
-[^43]:
-	- PVM and other VM benchmarks: https://github.com/koute/polkavm/blob/master/BENCHMARKS.md
-[^44]:
+
+[^43]: PVM and other VM benchmarks: https://github.com/koute/polkavm/blob/master/BENCHMARKS.md
+
+[^44]: Information about the Polkadot DAO: https://polkadot.com/platform/dao
 	- Polkadot Treasury Account: https://polkadot.subscan.io/account/13UVJyLnbVp9RBZYFwFGyDvVd1y27Tt8tkntv6Q7JVPhFsTB
-	- Information about the Polkadot DAO: https://polkadot.com/platform/dao
