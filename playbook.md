@@ -1,6 +1,6 @@
 # The Polkadot Playbook
 
-The minimum set of information you need to be able to explain Polkadot to others.
+Simple, accurate answers to common questions about Polkadot, backed by extensive references and source material, empowering anyone to become a Polkadot ambassador.
 
 ## What is Polkadot?
 
@@ -34,7 +34,7 @@ The minimum set of information you need to be able to explain Polkadot to others
 - Blazing fast execution speeds compared to other blockchain VMs.[^43]
 - One of the largest functioning DAOs, managing the functionality of the network and tens of millions of dollars in assets for development.[^44]
 
-## Polkadot Comparisons
+## Why Polkadot is better than...
 
 - Ethereum: Polkadot realized Ethereum's scaling vision first, conceived and delivered by co-founder Dr. Gavin Wood.[^51]
 - Solana: Unlike Solana, Polkadot scales without compromising Web3 principles of decentralization and security.[^52]
@@ -97,6 +97,8 @@ The minimum set of information you need to be able to explain Polkadot to others
 
 [^51]: Polkadot comparison document to Ethereum:
 	- https://wiki.polkadot.network/docs/learn-comparisons-ethereum-2
+	- Ethereum abandoned a properly sharded approach due to its complexity.
+	- Ethereum now depends on layer 2 solutions that are fragmented, less secure, and less decentralized.
 
 [^52]: Solana is better described as a distributed database, than a Web3 product.
 	- Information about the scalability trilemma: https://ethereum.org/en/roadmap/vision/

@@ -30,6 +30,10 @@ If you are just getting started in the Polkadot ecosystem, the following resourc
 
 	This is a presentation that I gave describing the philosphies, goals, and decisions of developing the Polkadot Network. Obviously there is little bit of bias here, but I think this is a great resource, not to understand what Polkadot is today, but what Polkadot is in general.
 
+- [The Polkadot Playbook](playbook.md)
+
+	Simple, accurate answers to common questions about Polkadot, backed by extensive references and source material, empowering anyone to become a Polkadot ambassador.
+
 ### More Advance Resources
 
 Now that you have covered the basics of Polkadot, it's time to dive a deeper.
