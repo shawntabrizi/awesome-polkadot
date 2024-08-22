@@ -28,7 +28,7 @@ The minimum set of information you need to be able to explain Polkadot to others
 
 ## Where is Polkadot leading?
 
-- 50+ active roll-ups live on Polkadot.[^40]
+- 50+ active rollups live on Polkadot.[^40]
 - Among the highest Nakamoto coefficients in the blockchain ecosystem.[^41]
 - 2nd largest developer community after Ethereum.[^42]
 - Blazing fast execution speeds compared to other blockchain VMs.[^43]
