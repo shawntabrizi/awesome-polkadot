@@ -36,7 +36,7 @@ The minimum set of information you need to be able to explain Polkadot to others
 
 ## Polkadot Comparisons
 
-- Ethereum: Polkadot realized Ethereum's scaling vision, first delivered by co-founder Dr. Gavin Wood. [^51]
+- Ethereum: Polkadot realized Ethereum's scaling vision first, conceived and delivered by co-founder Dr. Gavin Wood.[^51]
 - Solana: Unlike Solana, Polkadot scales without compromising Web3 principles of decentralization and security.[^52]
 - Cosmos: Unlike Cosmos, Polkadot provides shared security and secure interoperability.[^53]
 - Avalanche: Subnets in Avalanche are not as flexible as applications on Polkadot, and subnets do not provide shared security or secure interoperability.[^54]
