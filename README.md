@@ -186,3 +186,12 @@ Here are resources you can use to help you make your first contributions to the 
 
 - [Polkadot SDK Mentor Issues](https://github.com/paritytech/polkadot-sdk/issues?q=is%3Aopen+is%3Aissue+label%3AC1-mentor)
 - [Developer Wishlist](https://github.com/paritytech/polkadot-sdk/issues/3900)
+
+## Data
+
+You can find accurate and up to date metrics about Polkadot using these resources:
+
+- Block Explorer: [Subscan](https://polkadot.subscan.io/)
+- Governance Dashboard: [SubSquare](https://www.subsquare.io/)
+- Treasury Dashboard: [Dotreasury](https://polkadot.dotreasury.com/#/)
+- Ecosystem Metrics: [Parity Data Dashboards](https://dashboards.data.paritytech.io/)
