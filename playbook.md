@@ -92,7 +92,9 @@ Simple, accurate answers to common questions about Polkadot, backed by extensive
 
 [^43]: PVM and other VM benchmarks: https://github.com/koute/polkavm/blob/master/BENCHMARKS.md
 
-[^44]: Information about the Polkadot DAO: https://polkadot.com/platform/dao
+[^44]: Information about the Polkadot DAO:
+	- High level overview of the DAO: https://polkadot.com/platform/dao
+	- Insight into the treasury activity controlled by the DAO: https://www.dotreasury.com
 	- Polkadot Treasury Account: https://polkadot.subscan.io/account/13UVJyLnbVp9RBZYFwFGyDvVd1y27Tt8tkntv6Q7JVPhFsTB
 
 [^51]: Polkadot comparison document to Ethereum:
