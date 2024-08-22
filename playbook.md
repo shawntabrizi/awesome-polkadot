@@ -6,7 +6,7 @@ The minimum set of information you need to be able to explain Polkadot to others
 
 - Polkadot is a scaling solution for Web3[^1] applications and services.
 - Polkadot scales through data and execution sharding, allowing for parallelized throughput.[^2]
-- Polkadot provides shared security and interoperability to services build on it.[^3]
+- Polkadot provides shared security and secure interoperability to services build on it.[^3]
 - Polkadot creates abundant, flexible, and high quality blockspace.[^4]
 - Polkadot uses a novel "cynical" rollup to provide fast finality while using minimal resources.[^5]
 
