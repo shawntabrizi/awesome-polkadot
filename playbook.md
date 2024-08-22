@@ -34,7 +34,7 @@ Simple, accurate answers to common questions about Polkadot, backed by extensive
 - Blazing fast execution speeds compared to other blockchain VMs.[^43]
 - One of the largest functioning DAOs, managing the functionality of the network and tens of millions of dollars in assets for development.[^44]
 
-## Why Polkadot is better than...
+## How Polkadot is better than...
 
 - Ethereum: Polkadot realized Ethereum's scaling vision first, conceived and delivered by co-founder Dr. Gavin Wood.[^51]
 - Solana: Unlike Solana, Polkadot scales without compromising Web3 principles of decentralization and security.[^52]
