@@ -34,6 +34,14 @@ The minimum set of information you need to be able to explain Polkadot to others
 - Blazing fast execution speeds compared to other blockchain VMs.[^43]
 - One of the largest functioning DAOs, managing the functionality of the network and tens of millions of dollars in assets for development.[^44]
 
+## Polkadot Comparisons
+
+- Ethereum: Polkadot realized Ethereum's scaling vision, first delivered by co-founder Dr. Gavin Wood. [^51]
+- Solana: Unlike Solana, Polkadot scales without compromising Web3 principles of decentralization and security.[^52]
+- Cosmos: Unlike Cosmos, Polkadot provides shared security and secure interoperability.[^53]
+- Avalanche: Subnets in Avalanche are not as flexible as applications on Polkadot, and subnets do not provide shared security or secure interoperability.[^54]
+- Layer 2s: Layer 2 solutions face performance issues, unpredictable fees, and fragmented interoperability due to non-native support for rollups.[^55]
+
 [^1]: Learn more about Web3:
 	- The first time the term "Web3" was used: https://gavwood.com/dappsweb3.html
 	- A blog post describing the importance of Web3: https://gavofyork.medium.com/why-we-need-web-3-0-5da4f2bf95ab
@@ -86,3 +94,20 @@ The minimum set of information you need to be able to explain Polkadot to others
 
 [^44]: Information about the Polkadot DAO: https://polkadot.com/platform/dao
 	- Polkadot Treasury Account: https://polkadot.subscan.io/account/13UVJyLnbVp9RBZYFwFGyDvVd1y27Tt8tkntv6Q7JVPhFsTB
+
+[^51]: Polkadot comparison document to Ethereum:
+	- https://wiki.polkadot.network/docs/learn-comparisons-ethereum-2
+
+[^52]: Solana is better described as a distributed database, than a Web3 product.
+	- Information about the scalability trilemma: https://ethereum.org/en/roadmap/vision/
+	- Solana scales vertically while Polkadot scales horizontally.
+	- Since January 2022, Solana has seen around half a dozen significant outages and 15 partial or major outage days: https://cointelegraph.com/news/solana-outage-client-diversity-beta
+
+[^53]: Polkadot comparison document to Cosmos:
+	- https://wiki.polkadot.network/docs/learn-comparisons-cosmos
+
+[^54]: Polkadot comparison document to Avalanche:
+	- https://wiki.polkadot.network/docs/learn-comparisons-avalanche
+
+[^55]: Polkadot comparison document to Layer 2s and Rollups:
+	- https://wiki.polkadot.network/docs/learn-comparisons-rollups
