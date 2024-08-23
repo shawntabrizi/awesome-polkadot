@@ -94,6 +94,9 @@ You should follow these high quality ecosystem agents to keep up to date with wh
 - https://twitter.com/ParaNodes
 - https://twitter.com/GldnCalf
 - https://twitter.com/BillLaboon
+- [https://twitter.com/0xgoku_](https://twitter.com/0xgoku_)
+- https://twitter.com/saxemberg
+- https://twitter.com/gbaciX
 
 ## Users
 

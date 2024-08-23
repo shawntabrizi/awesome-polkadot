@@ -52,7 +52,8 @@ Simple, accurate answers to common questions about Polkadot, backed by extensive
 
 [^4]: A blog post explaining the term "blockspace": https://www.rob.tech/blog/polkadot-blockspace-over-blockchains/
 
-[^5]:
+[^5]: Polkadot's cynical rollup protocol is called ELVES.
+	- ELVES stands for ”endorsing light validity evaluator system”.
 	- The ELVES paper, formally describing Polkadot's cynical rollup: https://eprint.iacr.org/2024/961
 	- A tweet summary of the ELVES paper: https://x.com/rphmeier/status/1807884271157187007
 
