@@ -72,6 +72,10 @@ Circles are the decentralized communities where you can directly participate in 
 
 	A [Matrix](https://matrix.org/) chat room for general discussion of Polkadot.
 
+- [Attempts at Governance (AAG)](https://www.youtube.com/playlist?list=PLtyd7v_I7PGkXbJmKojrZ1KXwspR1JkpV) ([Google Calendar Link for Meetups](https://calendar.google.com/calendar/u/0?cid=NWJjOWViZjQ0NTZmZGY4Zjk1M2U4OTA2YWNiMjEwYTFhMzc3NDAzMDFlMDVkN2U3ODg1NDEwMWY4OTg4ZDkwNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t))
+
+	An open call where the Polkadot community comes together to discuss governance and treasury proposals.
+
 ### Catalysts
 
 You should follow these high quality core contributors to keep up to date with the latest developments of the Polkadot protocol.
@@ -144,6 +148,11 @@ These resources are for you.
 
 	In order to run a parachain, you must simulate a Polkadot network with a relay chain and multiple validators. Zombienet can do this for you with a simple CLI and config. Very useful for doing local testing on a "live network" starting from genesis.
 
+<details>
+	<summary>Additional Tools</summary>
+
+These additional tools are more relevant for maintaining a Polkadot SDK project, rather than starting one.
+
 - [Chopsticks](https://github.com/AcalaNetwork/chopsticks)
 
 	Chopsticks is a tool that allows developers to simulate and test complex blockchain scenarios without deploying to a "live network" (i.e. no need for a relay chain). It is particularly useful at forking any already-live chain, modifying it, and then testing the affects of your modifications.
@@ -155,6 +164,8 @@ These resources are for you.
 - [Zepter](https://github.com/ggwpez/zepter)
 
 	A common problem for new developers building a Polkadot SDK project is correctly importing new crates and handling all the feature flags for their newly imported crates. Zepter is a tool which can automatically detect and fix and format feature flags across your Polkadot SDK project.
+
+</details>
 
 ### Tutorials
 
