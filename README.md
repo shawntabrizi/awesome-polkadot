@@ -104,9 +104,9 @@ You should follow these high quality ecosystem agents to keep up to date with wh
 
 ## Users
 
-Are you looking to be an end user of Polkadot or services built on Polkadot?
+Are you looking to use Polkadot or services built on Polkadot?
 
-Check out these resources to get yourself Onboarded.
+Check out these resources to get yourself onboarded.
 
 ### Wallets
 
@@ -115,6 +115,14 @@ My favorite Wallets in the Polkadot Ecosystem:
 - Mobile Wallet: [Nova Wallet](https://novawallet.io/)
 - Web Extension: [Talisman](https://www.talisman.xyz/)
 - Hardware Wallet: [Ledger](https://www.ledger.com/coin/wallet/polkadot)
+- Integrated in Telegram: [Telenova](https://medium.com/novasama-technologies/meet-telenova-your-newbie-friendly-polkadot-wallet-built-into-telegram-5d9e9570d334)
+
+### Applications
+
+- Staking: [Polkadot Staking Dashboard](https://staking.polkadot.cloud)
+- Decentralized Exchange (DEX): [Hydration](https://hydration.net/)
+- NFT Marketplace: [Koda](https://koda.art/)
+- Coretime Marketplace: [Lastic](https://www.lastic.xyz/)
 
 ## Developer
 
@@ -164,6 +172,10 @@ These additional tools are more relevant for maintaining a Polkadot SDK project,
 - [Zepter](https://github.com/ggwpez/zepter)
 
 	A common problem for new developers building a Polkadot SDK project is correctly importing new crates and handling all the feature flags for their newly imported crates. Zepter is a tool which can automatically detect and fix and format feature flags across your Polkadot SDK project.
+
+- [Substrate JS Utilities](https://www.shawntabrizi.com/substrate-js-utilities/)
+
+	A simple webpage allowing you perform many basic conversions and operations, for example hash a string or change the prefix of an address. Useful when working with the Polkadot SDK in general.
 
 </details>
 
