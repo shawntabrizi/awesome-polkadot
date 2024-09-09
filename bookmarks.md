@@ -8,6 +8,10 @@ I expect links in this list to go out of date, but I will include the date these
 
 ## September 2024
 
+- https://reactivedot.dev/
+	- New React library for Polkadot development
+- https://www.developerreport.com/
+	- Top Ecosystems Monthly Active Developers
 - https://github.com/subscan-explorer/jam-research
 	- Collection of JAM links and resources
 - https://forum.polkadot.network/t/questions-for-the-polkadot-community/9881
