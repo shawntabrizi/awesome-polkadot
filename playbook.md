@@ -5,18 +5,26 @@ Simple, accurate answers to common questions about Polkadot, backed by extensive
 ## What is Polkadot?
 
 - Polkadot is a scaling solution for Web3 applications and services.[^1]
-- Polkadot scales through data and execution sharding, allowing for parallelized throughput.[^2]
-- Polkadot provides shared security and secure interoperability to services built on it.[^3]
+- Polkadot scales through data and execution sharding, allowing for parallelized execution of parachains, called **Para**chains.[^2]
+- Polkadot provides shared security and secure interoperability to Parachains.[^3]
+  - Each of these shared is called a "Core", and Polkadot's anologous term for blockspace is core-time.
 - Polkadot creates abundant, flexible, and high quality blockspace.[^4]
 - Polkadot uses a novel "cynical" rollup to provide fast finality while using minimal resources.[^5]
+- Polkadot 2.0 makes cores more performant, flexible, and cost-effective, through async-backing, agile-coretime and elastic scaling respectively.
+- Polkadot JAM makes the type of applications that can be written on Polkadot cores radically less-opinionated, among other novel advancements.
 
-## What unique things can you do on Polkadot?
+## What things can you do on Polkadot, as you can do as a sovereign Rollup on ETH?
 
 - Build applications with full control over block construction and transaction execution.[^21]
+- Build application that can benefit from varying forms of scheduling -- not being bound by "transactions" to interact.  
+- Build applications which execute at sub-second speeds.[^24]
+
+## What "_unique_" things can you do on Polkadot, as a cynical Rollup?
+
 - Build applications with full control over fees, fee payments, and tokens.[^22]
 - Build applications which dynamically scale up and down execution cores.[^23]
-- Build applications which execute at sub-second speeds.[^24]
 - Build applications that can permissionlessly upgrade and evolve over time.[^25]
+- Build cross chain communication, without worrying about the know weakest-link issue[^35]. 
 
 ## Why choose Polkadot?
 
@@ -41,6 +49,46 @@ Simple, accurate answers to common questions about Polkadot, backed by extensive
 - Cosmos: Unlike Cosmos, Polkadot provides shared security and secure interoperability.[^53]
 - Avalanche: Subnets in Avalanche are not as flexible as applications on Polkadot, and subnets do not provide shared security or secure interoperability.[^54]
 - Layer 2s: Layer 2 solutions face performance issues, unpredictable fees, and fragmented interoperability due to non-native support for rollups.[^55]
+
+## Appendix
+
+More ideas on how we can make the playbook more comprehensive. probably these can go into separate, more verbose writeups. 
+
+### The Layer Story
+
+The story of how Polkadot can be seen as L0, oe L1. 
+JAM is `L-[whatever_is_polkadot] - 1`
+
+### Coretime vs. Blockspace 
+
+Because Polkadot's novel in-core and on-chain dualism, the word blockspace is not accurate. Polkadot's pure output as a global computer is two flavors: In-core, and on-chain, and therefore we use the specialized term Coretime instead of Blockspace. 
+
+To be more accurate, with JAM, Polkadot's outputs will be:
+
+1. In-core compute
+2. onchain compute
+3. DA Ephemeral data
+4. Onchain persistent data
+5. Speed of data transfer between `outside_world <> in_core <> DA <> onchain`
+
+### Rent 
+
+Articulate exactly why Polkadot is inevitably has a notion of rent. Cynical. Polkadot validator's are proactively checking your work, unlike optimistic L2s, where in the absence of fraud, validators do nothing. This proactive ness CANNOT be free. The clear upside of this is significantly faster time-to-finality (30s vs 2w). 
+
+### Bullish 
+
+Which areas of Polkadot we are bullish on as an ambassador. 
+
+1. Driven by arguably the most active founder in the Web3 space, Gaving wood.
+	* Proven track record predicting where innovation happens: Polkadot preached Multi-chain in 2018
+2. PoP, the first of its kind in solving the personhood issue in Web3, solving the oracle problem at its purest form.
+   * https://x.com/kianenigma/status/1827078047830528505
+   * https://forum.polkadot.network/t/web3-summit-2024-thoughts-and-retro/9807
+3. JAM
+
+
+TODO: better evidence about Solana. Why is it really bad? 
+TODO: Near also has some kind of sharding in place, not sure if it is flexible. 
 
 [^1]: Learn more about Web3:
 	- The first time the term "Web3" was used: https://gavwood.com/dappsweb3.html
