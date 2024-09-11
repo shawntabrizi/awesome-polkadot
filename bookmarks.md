@@ -8,6 +8,10 @@ I expect links in this list to go out of date, but I will include the date these
 
 ## September 2024
 
+- https://multix.chainsafe.io/?network=polkadot
+	- One option to manage a multisig properly on Polkadot
+- https://polkadotmultisig.com/
+	- Another option for managing a multisig on Polkadot
 - https://reactivedot.dev/
 	- New React library for Polkadot development
 - https://www.developerreport.com/
@@ -32,6 +36,11 @@ I expect links in this list to go out of date, but I will include the date these
 	- Compensate frugally, reward aggressively / handsomely
 - https://hackmd.io/vaPBaDW1Q7-UpsvFF-yYfQ?view
 	- My version of an ambassador program, head ambassadors
+
+## December 2023
+
+- https://en.wikipedia.org/wiki/Enshittification
+	- Word of the year, the decay in quality of online products and services
 
 ## August 2023
 
