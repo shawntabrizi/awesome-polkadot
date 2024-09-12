@@ -119,6 +119,7 @@ My favorite Wallets in the Polkadot Ecosystem:
 
 ### Applications
 
+- Multisig: [Polkadot Multisig](https://polkadotmultisig.com) or [Multix](https://multix.chainsafe.io/)
 - Staking: [Polkadot Staking Dashboard](https://staking.polkadot.cloud)
 - Decentralized Exchange (DEX): [Hydration](https://hydration.net/)
 - NFT Marketplace: [Koda](https://koda.art/)
