@@ -8,6 +8,8 @@ I expect links in this list to go out of date, but I will include the date these
 
 ## September 2024
 
+- https://www.opengov.watch/
+	- All-in-one collection of OpenGov resources in Polkadot managed by [@alice_und_bob](https://twitter.com/alice_und_bob) and [@xcjeeper](https://x.com/xcjeeper).
 - https://multix.chainsafe.io/?network=polkadot
 	- One option to manage a multisig properly on Polkadot
 - https://polkadotmultisig.com/

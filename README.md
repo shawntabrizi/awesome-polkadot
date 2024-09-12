@@ -72,9 +72,22 @@ Circles are the decentralized communities where you can directly participate in 
 
 	A [Matrix](https://matrix.org/) chat room for general discussion of Polkadot.
 
-- [Attempts at Governance (AAG)](https://www.youtube.com/playlist?list=PLtyd7v_I7PGkXbJmKojrZ1KXwspR1JkpV) ([Google Calendar Link for Meetups](https://calendar.google.com/calendar/u/0?cid=NWJjOWViZjQ0NTZmZGY4Zjk1M2U4OTA2YWNiMjEwYTFhMzc3NDAzMDFlMDVkN2U3ODg1NDEwMWY4OTg4ZDkwNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t))
+- [Attempts at Governance (AAG)](https://www.youtube.com/playlist?list=PLtyd7v_I7PGkXbJmKojrZ1KXwspR1JkpV)
 
 	An open call where the Polkadot community comes together to discuss governance and treasury proposals.
+
+	<details>
+
+	<summary>AAG Calendar Links</summary>
+
+	- [View on Google Calendar](https://calendar.google.com/calendar/u/0/embed?src=5bc9ebf4456fdf8f953e8906acb210a1a37740301e05d7e78854101f8988d905@group.calendar.google.com)
+	- [Add to Google Calendar](https://calendar.google.com/calendar/u/0?cid=NWJjOWViZjQ0NTZmZGY4Zjk1M2U4OTA2YWNiMjEwYTFhMzc3NDAzMDFlMDVkN2U3ODg1NDEwMWY4OTg4ZDkwNUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+	- iCal format to subscribe from other applications:
+		```
+		https://calendar.google.com/calendar/ical/5bc9ebf4456fdf8f953e8906acb210a1a37740301e05d7e78854101f8988d905%40group.calendar.google.com/public/basic.ics
+		```
+
+	</details>
 
 ### Catalysts
 
