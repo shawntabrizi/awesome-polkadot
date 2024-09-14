@@ -27,7 +27,7 @@ I expect links in this list to go out of date, but I will include the date these
 
 ## August 2024
 
-- https://dashboards.data.paritytech.io/
+- https://data.parity.io/
 	- Parity data dashboards
 
 ## July 2024

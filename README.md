@@ -234,4 +234,4 @@ You can find accurate and up to date metrics about Polkadot using these resource
 - Block Explorer: [Subscan](https://polkadot.subscan.io/)
 - Governance Dashboard: [SubSquare](https://www.subsquare.io/)
 - Treasury Dashboard: [Dotreasury](https://polkadot.dotreasury.com/#/)
-- Ecosystem Metrics: [Parity Data Dashboards](https://dashboards.data.paritytech.io/)
+- Ecosystem Metrics: [Parity Data Dashboards](https://data.parity.io/)

@@ -76,7 +76,7 @@ Simple, accurate answers to common questions about Polkadot, backed by extensive
 [^25]: Learn about forkless runtime upgrades in Polkadot: https://wiki.polkadot.network/docs/learn-runtime-upgrades
 
 [^31]: Polkadot's economic security can be measured by multiplying the total market cap of the DOT token by the percentage of DOT token locked in Polkadot's Nominated Proof-of-Stake protocol.
-	- Staking metrics can be found here: https://dashboards.data.paritytech.io/staking.html
+	- Staking metrics can be found here: https://data.parity.io/staking
 	- Total market cap information can be found here: https://www.coingecko.com/en/coins/polkadot
 
 [^32]: Learn more about cynical rollups:
@@ -97,7 +97,7 @@ Simple, accurate answers to common questions about Polkadot, backed by extensive
 	- An overview of external bridges on Polkadot: https://polkadot.com/blog/the-landscape-of-trustless-bridges-on-polkadot
 
 [^41]: A list of active parachains on Polkadot: https://polkadot.subscan.io/parachain
-	- Accumulated insights of total activity on Polkadot: https://dashboards.data.paritytech.io/parachains.html
+	- Accumulated insights of total activity on Polkadot: https://data.parity.io/parachain-stats
 
 [^42]: The Nakamoto Coefficient is one measure of decentralization and resilience.
 	- A third party service comparing the Nakamoto Coefficient: https://nakaflow.io/
