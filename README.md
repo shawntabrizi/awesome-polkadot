@@ -137,6 +137,7 @@ My favorite Wallets in the Polkadot Ecosystem:
 - Decentralized Exchange (DEX): [Hydration](https://hydration.net/)
 - NFT Marketplace: [Koda](https://koda.art/)
 - Coretime Marketplace: [Lastic](https://www.lastic.xyz/)
+- OpenGov Delegation: [Delegit](https://delegit.xyz/)
 
 ## Developer
 
