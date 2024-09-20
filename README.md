@@ -6,7 +6,7 @@ An opinionated list of awesome resources in the Polkadot ecosystem.
 
 The problem I found with other awesome lists is that there are so many links and resources, that quality is lost to the noise, and approachability becomes overwhelming.
 
-Unlike other awesome lists, this is NOT meant to be a comprehensive list for all options available in the Polkadot ecosystem. Instead, this will be a very opinionated and unapologetic list of resources which I find useful and that I use myself.
+Unlike other awesome lists, this is NOT meant to be a comprehensive list for all options available in the Polkadot ecosystem. Instead, this is a very opinionated and unapologetic list of resources which I find useful and that I use myself.
 
 You can feel confident that if you use these same resources, they will work and provide a great experience.
 
@@ -28,7 +28,7 @@ If you are just getting started in the Polkadot ecosystem, the following resourc
 
 - [The Decisions of Polkadot](https://www.youtube.com/watch?v=mQckxpMUBo8)
 
-	This is a presentation that I gave describing the philosphies, goals, and decisions of developing the Polkadot Network. Obviously there is little bit of bias here, but I think this is a great resource, not to understand what Polkadot is today, but what Polkadot is in general.
+	This is a presentation that I gave describing the philosophies, goals, and decisions of developing the Polkadot Network. Obviously there is a bit of bias here, but I think this is a great resource, not just to understand what Polkadot is today, but its overall vision and principles.
 
 - [The Polkadot Playbook](playbook.md)
 
@@ -149,11 +149,11 @@ These resources are for you.
 
 - [Rust and Polkadot Workshop](https://www.shawntabrizi.com/rust-and-polkadot-workshop/)
 
-	The Rust and Polkadot Workshop is a two-day course designed to take you from zero to one on your Polkadot journey. It covers the fundamentals of cryptography, blockchain, Rust, and Polkadot, and incorporates the [tutorials](#tutorials) I recommend below as part of the course.
+	The Rust and Polkadot Workshop is a two-day course designed to take you from zero to one on your Polkadot journey. It covers the fundamentals of cryptography, blockchain, Rust, and Polkadot, and includes the [tutorials](#tutorials) I recommend below as part of the course.
 
 - [The Polkadot Blockchain Academy](https://github.com/Polkadot-Blockchain-Academy)
 
-	The PBA is an 5-week in person course designed onboard existing software developers into the Polkadot and broader blockchain ecosystem. All resources for the academy are available online for free.
+	The PBA is an 5-week in person course designed to onboard existing software developers into the Polkadot and broader blockchain ecosystem. All resources for the academy are available online for free.
 
 	- Course Content: https://polkadot-blockchain-academy.github.io/pba-book/
 	- Video Recordings: https://www.youtube.com/@polkadotblockchainacademy/
@@ -208,7 +208,7 @@ These additional tools are more relevant for maintaining a Polkadot SDK project,
 
 - [Chopsticks](https://github.com/AcalaNetwork/chopsticks)
 
-	Chopsticks is a tool that allows developers to simulate and test complex blockchain scenarios without deploying to a "live network" (i.e. no need for a relay chain). It is particularly useful at forking any already-live chain, modifying it, and then testing the affects of your modifications.
+	Chopsticks is a tool that allows developers to simulate and test complex blockchain scenarios without deploying to a "live network" (i.e. no need for a relay chain). It is particularly useful at forking any already-live chain, modifying it, and then testing the effects of your modifications.
 
 - [Polkadot SDK Version Manager](https://github.com/paritytech/psvm)
 
@@ -226,7 +226,7 @@ These additional tools are more relevant for maintaining a Polkadot SDK project,
 
 ### Contributing
 
-Here are resources you can use to help you make your first contributions to the Polkadot SDK.
+Here are resources to help you make your first contributions to the Polkadot SDK.
 
 - [Polkadot SDK Mentor Issues](https://github.com/paritytech/polkadot-sdk/issues?q=is%3Aopen+is%3Aissue+label%3AC1-mentor)
 - [Developer Wishlist](https://github.com/paritytech/polkadot-sdk/issues/3900)
