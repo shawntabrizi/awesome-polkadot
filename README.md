@@ -145,6 +145,36 @@ Are you a software developer interested in building in the Polkadot ecosystem?
 
 These resources are for you.
 
+### Courses
+
+- [Rust and Polkadot Workshop](https://www.shawntabrizi.com/rust-and-polkadot-workshop/)
+
+	The Rust and Polkadot Workshop is a two-day course designed to take you from zero to one on your Polkadot journey. It covers the fundamentals of cryptography, blockchain, Rust, and Polkadot, and incorporates the [tutorials](#tutorials) I recommend below as part of the course.
+
+- [The Polkadot Blockchain Academy](https://github.com/Polkadot-Blockchain-Academy)
+
+	The PBA is an 5-week in person course designed onboard existing software developers into the Polkadot and broader blockchain ecosystem. All resources for the academy are available online for free.
+
+	- Course Content: https://polkadot-blockchain-academy.github.io/pba-book/
+	- Video Recordings: https://www.youtube.com/@polkadotblockchainacademy/
+
+### Tutorials
+
+- [Rust State Machine](https://dotcodeschool.com/courses/rust-state-machine)
+
+	Onboard yourself to the Rust programming language with this tutorial specifically tuned for teaching the basics of Rust and Blockchain development.
+
+- [Substrate Kitties](https://dotcodeschool.com/courses/substrate-kitties)
+
+	Build your first Polkadot SDK Pallet which functions as a simple NFT Marketplace where you can create, transfer, buy, and sell NFT Kitties.
+
+### Templates
+
+You can find known working and up to date templates for developing in Polkadot here:
+
+- [Polkadot SDK Templates](https://paritytech.github.io/polkadot-sdk/master/polkadot_sdk_docs/polkadot_sdk/templates/index.html)
+- Polkadot API (Frontend/TypeScript): Find working examples on their [GitHub](https://github.com/polkadot-api)
+
 ### Tooling
 
 - [Getting Started Script](https://github.com/paritytech/polkadot-sdk/blob/master/scripts/getting-started.sh)
@@ -193,33 +223,6 @@ These additional tools are more relevant for maintaining a Polkadot SDK project,
 	A simple webpage allowing you perform many basic conversions and operations, for example hash a string or change the prefix of an address. Useful when working with the Polkadot SDK in general.
 
 </details>
-
-### Tutorials
-
-- [Rust State Machine](https://dotcodeschool.com/courses/rust-state-machine)
-
-	Onboard yourself to the Rust programming language with this tutorial specifically tuned for teaching the basics of Rust and Blockchain development.
-
-- [Substrate Kitties](https://dotcodeschool.com/courses/substrate-kitties)
-
-	Build your first Polkadot SDK Pallet which functions as a simple NFT Marketplace where you can create, transfer, buy, and sell NFT Kitties.
-
-### Courses
-
-- [The Polkadot Blockchain Academy](https://github.com/Polkadot-Blockchain-Academy)
-
-	The PBA is an 5-week in person course designed onboard existing software developers into the Polkadot and broader blockchain ecosystem. All resources for the academy are available online for free.
-
-	- Course Content: https://polkadot-blockchain-academy.github.io/pba-book/
-	- Video Recordings: https://www.youtube.com/@polkadotblockchainacademy/
-
-
-### Templates
-
-You can find known working and up to date templates for developing in Polkadot here:
-
-- [Polkadot SDK Templates](https://paritytech.github.io/polkadot-sdk/master/polkadot_sdk_docs/polkadot_sdk/templates/index.html)
-- Polkadot API (Frontend/TypeScript): Find working examples on their [GitHub](https://github.com/polkadot-api)
 
 ### Contributing
 
