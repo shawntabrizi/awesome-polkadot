@@ -235,6 +235,7 @@ Here are resources to help you make your first contributions to the Polkadot SDK
 
 You can find accurate and up to date metrics about Polkadot using these resources:
 
+- Ecosystem Map: [dotinsights](https://dotinsights.subwallet.app/projects/)
 - Block Explorer: [Subscan](https://polkadot.subscan.io/)
 - Governance Dashboard: [SubSquare](https://www.subsquare.io/)
 - Treasury Dashboard: [Dotreasury](https://polkadot.dotreasury.com/#/)
