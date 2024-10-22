@@ -6,6 +6,11 @@ There is no quality or content filtering for this list. If I have ever linked to
 
 I expect links in this list to go out of date, but I will include the date these links were added as a reference to when they were relevant.
 
+## October 2023
+
+- https://ogtracker.io
+	- Tracks deliverables of open gov proposals.
+
 ## September 2024
 
 - https://www.opengov.watch/
