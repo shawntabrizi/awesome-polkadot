@@ -4,7 +4,7 @@ Simple, accurate answers to common questions about Polkadot, backed by extensive
 
 ## What is Polkadot?
 
-- Polkadot is a scaling solution for Web3 applications and services.[^1]
+- Polkadot is a cloud server for Web3 applications and services.[^1]
 - Polkadot scales through data and execution sharding, allowing for parallelized throughput.[^2]
 - Polkadot provides shared security and secure interoperability to services built on it.[^3]
 - Polkadot creates abundant, flexible, and high quality blockspace.[^4]
@@ -28,11 +28,11 @@ Simple, accurate answers to common questions about Polkadot, backed by extensive
 
 ## Where is Polkadot leading?
 
-- 50+ active rollups live on Polkadot driving 13M transactions across 300K active accounts per month on average.[^41]
+- 50+ active rollups live on Polkadot driving 32M transactions across 200K active accounts per month.[^41]
 - Among the highest Nakamoto coefficients in the blockchain ecosystem.[^42]
-- 2nd largest developer community after Ethereum.[^43]
+- One of the largest developer community after Ethereum.[^43]
 - Blazing fast execution speeds compared to other blockchain VMs.[^44]
-- One of the largest functioning DAOs, managing the functionality of the network and tens of millions of dollars in assets for development.[^45]
+- One of the largest functioning DAOs, managing the functionality of the network and $150M dollars in assets for development.[^45]
 
 ## How Polkadot is better than...
 
