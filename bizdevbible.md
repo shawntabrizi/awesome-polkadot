@@ -219,7 +219,8 @@ When presenting Polkadot, you may need to reference specific facts. You should f
 - Milestones
 	- Polkadot Paper: October 2016
 	- ICO: October 2017
-	- Polkadot Cloud - Milestone I (Genesis): May 2020
+	- Polkadot Cloud - Genesis: May 2020
+	- Polkadot Cloud - Milestone I (Parachains): November 2021
 	- First Cloud Services: December 2021
 	- Gray Paper: April 2024
 	- Polkadot Cloud - Milestone II (Elastic): October 2024
