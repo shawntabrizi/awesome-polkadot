@@ -21,7 +21,7 @@ The Polkadot Cloud will be the best place to onboard:
 		- Trusted Execution Environments (TEEs)
 		- Zero-Knowledge Systems
 	- Large State Chains
-		- Large File Storage (ipfs, filecoin, large individual items)
+		- Large File Storage (IPFS, Filecoin, large individual files)
 		- Large State Trees (billions of items)
 	- Social Networks
 		- Feeless transactions
@@ -35,10 +35,10 @@ The Polkadot Cloud will be the best place to onboard:
 
 The Polkadot Cloud will not be the best place for:
 - New businesses and trying to grow a new customer base.
-- New developers as the minimum bar for entry is quite high relatively speaking.
+- New developers, as the minimum bar for entry is, relatively speaking, quite high.
 - End-users, as the Polkadot Cloud does not offer many services which appeal to this audience.
 
-These kinds of users should to the Polkadot Hub.
+These kinds of users will instead be directed to the Polkadot Hub.
 
 ### Polkadot Hub
 
