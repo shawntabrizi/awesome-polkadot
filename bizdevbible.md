@@ -198,7 +198,9 @@ The Polkadot Hub is a new L1 blockchain running on the Polkadot Cloud, and a lau
 
 The Polkadot Hub will be Ethereum compatible, meaning you can deploy your favorite Solidity smart contracts directly to the Polkadot ecosystem.
 
-The Polkadot Hub has native access to stable coins like USDC and USDT, as well as all of the tokens from the Polkadot ecosystem. On the Polkadot Hub, you can pay fees with any of these tokens. You can even hold stablecoins without needing any other token!
+The Polkadot Hub has native access to stable coins like USDC and USDT, as well as all of the tokens from the Polkadot ecosystem. The Polkadot Hub also has trustless bridges to Ethereum and other top blockchain ecosystems, meaning that you have worry-free access to basically any token within the crypto market.
+
+On the Polkadot Hub, you can pay fees with any of these tokens. You can even hold stablecoins without needing any other token on your account!
 
 The Polkadot Hub is a brand new, untapped resource for explosive product growth by tapping into one of the largest developer communities in the blockchain ecosystem.
 
