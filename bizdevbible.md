@@ -34,7 +34,7 @@ The Polkadot Cloud will be the best place to onboard:
 	- etc..
 
 The Polkadot Cloud will not be the best place for:
-- New businesses and trying to grow a new customer base.
+- New businesses that are still trying to create a customer base.
 - New developers, as the minimum bar for entry is, relatively speaking, quite high.
 - End-users, as the Polkadot Cloud does not offer many services which appeal to this audience.
 
