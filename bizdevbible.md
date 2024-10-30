@@ -15,7 +15,7 @@ The Polkadot Cloud is targeted toward large scale Web3 applications which plan t
 One Core on the Polkadot Cloud can execute 1,500 transactions per second, which is approximately 4 billion transactions per month. We have seen applications easily execute nearly 10 million transactions in a month without an issue.
 
 The Polkadot Cloud will be the best place to onboard:
-- Existing businesses who want to migrate existing large volumes of traffic.
+- Businesses that want to migrate already existing large volumes of traffic.
 - Custom Web3 solutions, which gain access to low level building primitives.
 	- Privacy Chains
 		- Trusted Execution Environments (TEEs)
