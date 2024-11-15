@@ -2,6 +2,8 @@
 
 The Pros (and Cons) of building on Polkadot for each market audience.
 
+This document is not complete. Please help me finish it by opening a PR! :)
+
 ## The Polkadot Platform
 
 Polkadot is composed of two platforms: the Polkadot Cloud and the Polkadot Hub.
