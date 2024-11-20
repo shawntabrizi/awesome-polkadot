@@ -260,3 +260,17 @@ When presenting Polkadot, you may need to reference specific facts. You should f
 	- Avail (previously Polygon)
 	- Cardano Midnight
 	- Bittensor
+ - Midnight
+I understand that these use it but don't give us credit: 
+Tensorflow
+Near
+Edgeware
+Ava (formerly Oak)
+Gasp (formerly Mangata)
+Centrum (formerly Invarch)
+Syncra.xyz
+Vara/Gear
+Entropy
+Tangle
+Bob
+[peaq]
