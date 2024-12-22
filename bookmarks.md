@@ -6,10 +6,19 @@ There is no quality or content filtering for this list. If I have ever linked to
 
 I expect links in this list to go out of date, but I will include the date these links were added as a reference to when they were relevant.
 
-## October 2023
+## December 2024
+
+- https://ramp.harbour.fi/polkadot/
+	- Euro Fiat On-Ramp, USDC and DOT
+- https://forum.polkadot.network/t/make-kusama-chaotic-again/11123
+	- A post on the values of Kusama
+
+## October 2024
 
 - https://ogtracker.io
 	- Tracks deliverables of open gov proposals.
+- https://forum.polkadot.network/t/the-polkadot-cloud/10670
+	- A vision of the Polkadot Cloud and Hub
 
 ## September 2024
 
