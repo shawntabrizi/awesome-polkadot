@@ -22,6 +22,10 @@ Developer educational resources can be found in the [Developer](#developer) sect
 
 If you are just getting started in the Polkadot ecosystem, the following resources will be super useful to begin your journey to learn about and understand Polkadot.
 
+- [The Polkadot Cloud](https://forum.polkadot.network/t/the-polkadot-cloud/10670)
+
+	This is a forum post which describes Polkadot not only as a world-scale supercomputer, but also a Web3 cloud for a more resilient and decentralized internet.
+
 - [The Polkadot Homepage](https://polkadot.com/)
 
 	This is the official homepage for the Polkadot Network. Follow the story of Polkadot told by this site and learn the basics.
@@ -138,6 +142,7 @@ My favorite Wallets in the Polkadot Ecosystem:
 - NFT Marketplace: [Koda](https://koda.art/)
 - Coretime Marketplace: [Lastic](https://www.lastic.xyz/)
 - OpenGov Delegation: [Delegit](https://delegit.xyz/)
+- Fiat On-Ramp: [Harbour](https://ramp.harbour.fi/polkadot/)
 
 ## Developer
 
