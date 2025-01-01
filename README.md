@@ -104,6 +104,8 @@ You should follow these high quality core contributors to keep up to date with t
 - https://twitter.com/XiliangChen
 - https://twitter.com/joepetrowski
 - https://twitter.com/GehrleinJonas
+- https://x.com/shawntabrizi
+- https://x.com/gavofyork
 
 ### Champions
 
@@ -118,6 +120,7 @@ You should follow these high quality ecosystem agents to keep up to date with wh
 - [https://twitter.com/0xgoku_](https://twitter.com/0xgoku_)
 - https://twitter.com/saxemberg
 - https://twitter.com/gbaciX
+- https://x.com/0xgoku_
 
 ## Users
 
