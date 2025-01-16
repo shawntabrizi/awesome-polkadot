@@ -104,6 +104,8 @@ You should follow these high quality core contributors to keep up to date with t
 - https://twitter.com/XiliangChen
 - https://twitter.com/joepetrowski
 - https://twitter.com/GehrleinJonas
+- https://x.com/shawntabrizi
+- https://x.com/gavofyork
 
 ### Champions
 
