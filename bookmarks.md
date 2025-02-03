@@ -6,6 +6,13 @@ There is no quality or content filtering for this list. If I have ever linked to
 
 I expect links in this list to go out of date, but I will include the date these links were added as a reference to when they were relevant.
 
+## February 2025
+
+- https://www.polkassets.com/
+	- High Quality Image Assets for Polkadot Ecosystem
+- https://github.com/jamixir/jam-media
+	- JAM Media Assets
+
 ## December 2024
 
 - https://ramp.harbour.fi/polkadot/
