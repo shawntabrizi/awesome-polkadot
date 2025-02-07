@@ -12,6 +12,8 @@ I expect links in this list to go out of date, but I will include the date these
 	- High Quality Image Assets for Polkadot Ecosystem
 - https://github.com/jamixir/jam-media
 	- JAM Media Assets
+- https://docs.google.com/presentation/d/1nPDGVwVOMpdo103jitZjKx2tD-F54h4W4c7tqdV7h44/edit?usp=sharing
+	- The Future of Web3 Presentation at BUIDL HERE in Puerto Rico
 
 ## December 2024
 
@@ -26,6 +28,8 @@ I expect links in this list to go out of date, but I will include the date these
 	- Tracks deliverables of open gov proposals.
 - https://forum.polkadot.network/t/the-polkadot-cloud/10670
 	- A vision of the Polkadot Cloud and Hub
+- https://docs.google.com/presentation/d/1OMcIuihsdrBaMGlQvGkYPTsUDfA1VQ0oXvAG5VfdPmQ/edit?usp=sharing
+	- The Resilience of Polkadot Presentation at Tech Forum Argentina
 
 ## September 2024
 
