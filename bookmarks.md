@@ -6,6 +6,13 @@ There is no quality or content filtering for this list. If I have ever linked to
 
 I expect links in this list to go out of date, but I will include the date these links were added as a reference to when they were relevant.
 
+## March 2025
+
+- https://paritytech.github.io/polkadot-sdk/master/polkadot_sdk_docs/reference_docs/development_environment_advice/index.html
+	- Rust Analyzer Config for Polkadot development
+- https://docs.polkadot.com/
+	- New dev docs for Polkadot SDK
+
 ## February 2025
 
 - https://www.polkassets.com/
